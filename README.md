@@ -1,5 +1,6 @@
 # wechat-unofficial
 非官方微信客户端,支持iPhone 16及以上机型
+
 <small><i>如果苹果公司一意孤行iphone16不支持微信，会将此项目进行下去</i></small>
 
 ## 项目简介
