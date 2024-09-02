@@ -21,17 +21,18 @@
 
 ## 界面预览
 
-![聊天界面](screen/image-2.png)
-![朋友圈](screen/image-3.png)
-![小程序](screen/image-4.png)
+<img src="screen/image-2.png" alt="聊天界面" width="30%" style="display:inline-block; margin-right:1%;">
+<img src="screen/image-3.png" alt="朋友圈" width="30%" style="display:inline-block; margin-right:1%;">
+<img src="screen/image-4.png" alt="小程序" width="30%" style="display:inline-block;">
 
 ## 更多截图
 
-![设置界面](screen/image-5.png)
-![视频通话](screen/image-6.png)
-![支付功能](screen/image-7.png)
-![表情商店](screen/image-8.png)
-![公众号](screen/image-9.png)
+<img src="screen/image-5.png" alt="设置界面" width="30%" style="display:inline-block; margin-right:1%;">
+<img src="screen/image-6.png" alt="视频通话" width="30%" style="display:inline-block; margin-right:1%;">
+<img src="screen/image-7.png" alt="支付功能" width="30%" style="display:inline-block;">
+
+<img src="screen/image-8.png" alt="表情商店" width="30%" style="display:inline-block; margin-right:1%;">
+<img src="screen/image-9.png" alt="公众号" width="30%" style="display:inline-block;">
 
 ## 声明
 
